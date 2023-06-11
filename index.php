@@ -1,4 +1,3 @@
-<!--/*https://www.youtube.com/watch?v=3UtB4QS6EAg*/-->
 <!doctype html>
 <html lang=ru>
 <head>
